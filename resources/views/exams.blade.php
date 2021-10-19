@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="form-group">
-                    <label class="col-sm-2">OPtion 1</label>
+                    <label class="col-sm-2">Option 1</label>
                     <div class="col-sm-12">
                         <textarea class="form-control" id="option1" name="option1" placeholder="Enter Option 1" rows="1" cols="50">
                         </textarea>
@@ -94,7 +94,7 @@
                 </div>
 
                 <div class="form-group">
-                    <label class="col-sm-2">OPtion 2</label>
+                    <label class="col-sm-2">Option 2</label>
                     <div class="col-sm-12">
                         <textarea class="form-control" id="option2" name="option2" placeholder="Enter Option 2" rows="1" cols="50">
                         </textarea>
@@ -103,7 +103,7 @@
                 </div>
 
                 <div class="form-group">
-                    <label class="col-sm-2">OPtion 3</label>
+                    <label class="col-sm-2">Option 3</label>
                     <div class="col-sm-12">
                         <textarea class="form-control" id="option3" name="option3" placeholder="Enter Option 3" rows="1" cols="50">
                         </textarea>
@@ -112,7 +112,7 @@
                 </div>
 
                 <div class="form-group">
-                    <label class="col-sm-2">OPtion 4</label>
+                    <label class="col-sm-2">Option 4</label>
                     <div class="col-sm-12">
                         <textarea class="form-control" id="option4" name="option4" placeholder="Enter Option 4" rows="1" cols="50">
                         </textarea>
